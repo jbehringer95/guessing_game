@@ -58,4 +58,4 @@ while new_game == 'y':
 
 
 
-print('Have a lovely day and please return if you wanna play again')
+print('Have a lovely day and please return if you wanna play again!')
